@@ -1,0 +1,15 @@
+
+http://42bots.com/tutorials/how-to-connect-arduino-uno-to-android-phone-via-bluetooth/
+Make sure that you have loaded the sketch from Step 1 on the Arduino, before you connected the Bluetooth module to your phone. You will not be able to use the Arduino IDE serial monitor, or upload sketches when the Bluetooth module is connected as it uses the same RX/TX lines.
+
+Pair the module with your phone.
+Pairing code: 0000
+
+Terminaaliohjelma PC:lle: Tera Term
+http://www.ilmaisohjelmat.fi/teraterm
+
+http://www.forward.com.au/pfod/serialBluetoothConnections/SerialBluetoothConnectionToWindowsXP.html
+Teraterm asetuksia lopussa. "Installing the PC Terminal Emulator"
+
+Vaihtoehtoinen bluetooth ohje.
+http://www.instructables.com/id/Success-Using-the-JY-MCU-linvor-Bluetooth-Module/
